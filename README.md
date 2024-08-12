@@ -1,5 +1,5 @@
 This is the dataset used in development of "2PLUS1 CNN" that recognises handwritten Khmer characters. 
-The characters arewere trimmed and resized before being used in models.
+The characters were trimmed and resized before being used in models.
 Please read the related proceedings for details of preprocessing and model training.
 Any use of the dataset must include the citations of the related proceedings.
 
