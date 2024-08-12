@@ -1,7 +1,7 @@
 This is the dataset used in development of "2PLUS1 CNN" that recognises handwritten Khmer characters. 
 The characters were trimmed and resized before being used in models.
 Please read the related proceedings for details of preprocessing and model training.
-Any use of the dataset must include the citations of the related proceedings.
+Any use of the dataset must include the citations of the related proceedings:
 
 - B. Annanurov and N. M. Noor, "Handwritten Khmer text recognition," 2016 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), Pune, India, 2016, pp. 176-179, doi: 10.1109/WIECON-ECE.2016.8009112.
 - B. Annanurov and N. M. Noor, "Feature selection for Khmer handwritten text recognition," 2017 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), St. Petersburg and Moscow, Russia, 2017, pp. 626-630, doi: 10.1109/EIConRus.2017.7910634
